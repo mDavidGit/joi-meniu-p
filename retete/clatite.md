@@ -1,5 +1,5 @@
 Clatite
 
-Lapte
-Oua
-Faina
+- Lapte
+- Oua
+- Faina
