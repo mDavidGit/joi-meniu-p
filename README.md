@@ -6,3 +6,5 @@ un demo de lucru cu branch
 
 Va contine retete
 aceasta modificare este facuta in broweser
+
+Retetarul se vede [aici](retetar.md)
