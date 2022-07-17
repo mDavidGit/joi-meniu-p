@@ -1,5 +1,5 @@
-Gogosi
+# Gogosi
 
-Faina
-Drojdie
-Zahar
+- Faina
+- Drojdie
+- Zahar
