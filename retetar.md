@@ -10,7 +10,7 @@ Aceasta este lista de retete pe care o cunoastem
 ## Dejun
 
 [Sarmale](retete/sarmale.md)
-
+[Paste](retete/paste-carbonara.md)
 ## Desert
 
 [gogosi](retete/gogosi.md)
